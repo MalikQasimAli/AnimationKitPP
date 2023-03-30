@@ -1,0 +1,66 @@
+1.1435 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+4.7251 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([1., 1., 1.]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000012D9832F520>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000012D9A27F520>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=1, size=array([1920, 1080]), stencilBits=0, stereo=False, units='pix', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.7252 	EXP 	window1: mouseVisible = True
+4.7253 	EXP 	window1: mouseVisible = False
+4.7253 	EXP 	window1: Attempting to measure frame rate of screen (1) ...
+4.7253 	EXP 	window1: recordFrameIntervals = False
+4.7760 	DATA 	Mouse: Left button down, pos=(851,673)
+4.8586 	DATA 	Mouse:  Left button up, pos=(851,673)
+4.8912 	EXP 	window1: recordFrameIntervals = True
+5.0749 	EXP 	Screen (1) actual frame rate measured at 59.99Hz
+5.0749 	EXP 	window1: recordFrameIntervals = False
+6.5094 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=50.05, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=500)
+6.7079 	EXP 	Created corss_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='corss_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1920., 1080.]), texRes=128.0, units='pix', win=Window(...))
+6.9258 	EXP 	Created saccade_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='stimuli/cat.png', interpolate=True, mask=None, maskParams=None, name='saccade_image', opacity=1.0, ori=0.0, pos=array([960., 540.]), size=array([220., 150.]), texRes=128.0, units='pix', win=Window(...))
+6.9338 	EXP 	Created txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=50.05, italic=False, languageStyle='LTR', name='txt', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=500)
+7.1373 	EXP 	Created corss_image = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='corss_image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1920., 1080.]), texRes=128.0, units='pix', win=Window(...))
+7.3453 	EXP 	Created image_smooth = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='stimuli/cat.png', interpolate=True, mask=None, maskParams=None, name='image_smooth', opacity=1.0, ori=0.0, pos=array([960., 540.]), size=array([220., 150.]), texRes=128.0, units='pix', win=Window(...))
+7.3594 	EXP 	Created start_circleM = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1., -1., -1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=50.05, italic=False, languageStyle='LTR', name='start_circleM', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=500)
+7.5360 	EXP 	Created cross_img_circle = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image=str(...), interpolate=True, mask=None, maskParams=None, name='cross_img_circle', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1920., 1080.]), texRes=128.0, units='pix', win=Window(...))
+7.5538 	EXP 	Created img_circle = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, image='stimuli/fb.jpg', interpolate=True, mask=None, maskParams=None, name='img_circle', opacity=1.0, ori=0.0, pos=array([960., 540.]), size=array([60., 60.]), texRes=128.0, units='pix', win=Window(...))
+7.5755 	EXP 	text: autoDraw = True
+8.0277 	DATA 	Keypress: space
+8.0416 	EXP 	text: autoDraw = False
+8.0416 	EXP 	corss_image: autoDraw = True
+9.0256 	EXP 	Created sequence: sequential, trialTypes=1, nReps=5, seed=None
+9.0258 	EXP 	New trial (rep=0, index=0): None
+9.0416 	EXP 	corss_image: autoDraw = False
+9.0416 	EXP 	corss_image: autoDraw = False
+9.0416 	EXP 	saccade_image: autoDraw = True
+9.4256 	DATA 	Keypress: space
+9.5254 	EXP 	New trial (rep=1, index=0): None
+9.5415 	EXP 	saccade_image: autoDraw = False
+9.5415 	EXP 	saccade_image: autoDraw = False
+9.5415 	EXP 	saccade_image: autoDraw = True
+10.0257 	EXP 	New trial (rep=2, index=0): None
+10.0416 	EXP 	saccade_image: autoDraw = False
+10.0416 	EXP 	saccade_image: autoDraw = False
+10.0416 	EXP 	saccade_image: autoDraw = True
+10.5258 	EXP 	New trial (rep=3, index=0): None
+10.5416 	EXP 	saccade_image: autoDraw = False
+10.5416 	EXP 	saccade_image: autoDraw = False
+10.5416 	EXP 	saccade_image: autoDraw = True
+11.0255 	EXP 	New trial (rep=4, index=0): None
+11.0415 	EXP 	saccade_image: autoDraw = False
+11.0415 	EXP 	saccade_image: autoDraw = False
+11.0415 	EXP 	saccade_image: autoDraw = True
+11.5414 	EXP 	saccade_image: autoDraw = False
+11.5414 	EXP 	saccade_image: autoDraw = False
+11.5414 	EXP 	txt: autoDraw = True
+12.0433 	DATA 	Keypress: space
+12.0582 	EXP 	txt: autoDraw = False
+12.0582 	EXP 	corss_image: autoDraw = True
+13.0582 	EXP 	corss_image: autoDraw = False
+13.0582 	EXP 	corss_image: autoDraw = False
+13.0582 	EXP 	image_smooth: autoDraw = True
+13.4266 	DATA 	Keypress: space
+13.4415 	EXP 	image_smooth: autoDraw = False
+13.4415 	EXP 	start_circleM: autoDraw = True
+13.9097 	DATA 	Keypress: space
+13.9250 	EXP 	start_circleM: autoDraw = False
+13.9250 	EXP 	cross_img_circle: autoDraw = True
+14.9247 	EXP 	cross_img_circle: autoDraw = False
+14.9247 	EXP 	cross_img_circle: autoDraw = False
+14.9247 	EXP 	img_circle: autoDraw = True
+26.9419 	EXP 	img_circle: autoDraw = False
+27.0150 	EXP 	window1: mouseVisible = True
